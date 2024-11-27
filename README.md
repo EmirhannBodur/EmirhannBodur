@@ -1,4 +1,4 @@
- [![MasterHead](https://www.canva.com/design/DAGOZ6BtzCU/DeLJ4NnJInO-iNbU_CillA/edit?utm_content=DAGOZ6BtzCU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+ [![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQH0A1GHxGhwHQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724170884923?e=1738195200&v=beta&t=N8hVVG6XGVSJGyaMcYqQGlD7OCvHW3zpCk2bjwnlYfw)
 <h1 align="center">Hi 👋, I'm Emirhan Bodur</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
