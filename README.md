@@ -1,6 +1,6 @@
  [![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQH0A1GHxGhwHQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724170884923?e=1738195200&v=beta&t=N8hVVG6XGVSJGyaMcYqQGlD7OCvHW3zpCk2bjwnlYfw)
 <h1 align="center">Hi 👋, I'm Emirhan Bodur</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate mobile developer from Turkey</h3>
 
 - 📫 How to reach me **emirhanbodur742@gmail.com**
 
